@@ -3,7 +3,7 @@ pinkkk
 pink
 indigo
 violet
-red
+reds
 blue
 greens
 yellows

@@ -1,4 +1,4 @@
-the rainbow and the unicorn
+the rainbow and the unicorn and the pony
 
 pink
 red
@@ -6,7 +6,8 @@ blue
 green
 yellow
 unicorn
+pony
 orange
 
 these are my rainbow colors
-and the unicorn
+and the unicorn and pony

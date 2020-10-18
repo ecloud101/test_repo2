@@ -6,7 +6,7 @@ violet
 red
 blue
 green
-yellow
+yellows
 unicorn
 pony
 orange
